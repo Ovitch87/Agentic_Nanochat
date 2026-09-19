@@ -8,6 +8,9 @@ eval_bundle/
 # Secrets
 .env
 
+# Data files
+*.parquet
+
 # Local setup
 CLAUDE.md
 wandb/
