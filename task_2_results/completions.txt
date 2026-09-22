@@ -1,0 +1,55 @@
+Sampling: temperature=0.7, top_k=50, max_tokens=128, seeds=42..46
+
+PROMPT: The capital of France is
+COMPLETION:  now the first-ever international city in the country. The second largest city in the world, 3,000 people and 1,000 people in the city – in 1786, the world's first city was located in a capital city city.
+In 1788, the city of Bison, founded a city that was made up of a 176 million people in 1788, and made it the perfect city in 1862. The city has become a city in 2017, and it is a 1,000-mile city in the city in 2015. It has been built
+
+PROMPT: Water freezes when
+COMPLETION:  water freezes and freezes. The water freezes, and ice melts, prevents ice buildup and floods. Water freezes will, and ice freezes at temperatures of 100 degrees Celsius. Water freezes and keeps water freezes. When water freezes, freezes and freezes, which freezes, freezes, freezes, and freezes. The water freezes and freezes, which freezes, freezes and freezes, is the only water shortage ever found on earth. When water freezes, water loses its heat and freezes, which will increase water freezes. The water freezes, which freezes, freezes, freezes, freezes, and freezes, freezes and freezes. When water freezes, freezes, and freezes
+
+PROMPT: Once upon a time,
+COMPLETION:  it might be time to start up in the womb. You’d love to be a little bit of a space, and a little bit of space is a little bit too busy. You can use them as a gift, but they do not need to be too busy. You can use them as a gift and they can even be used as a gift. This can be done in various ways, such as choosing your local gift, giving birth to a family or a gift. You can also use them as a gift if you want to express yourself or a loved one.
+Some items may be used as a gift to express others. Some items
+
+PROMPT: To make a cup of tea,
+COMPLETION:  combine a tablespoon of sugar and salt in a small bowl with a cup of milk. You can also add salt to a cup of tea, including tea, tea, and sometimes a pinch of sugar.
+How to make a tea cup
+In the 24-hour period, you can make a tea cup. You can also add 1 to 2 tea cups or a cup of tea. You can also add 3 cups of tea and 1 cup of tea cups to a cup or cup of tea.
+Make a tea cup
+Now, you can make a tea cup at a larger size. You can also add more sugar and salt
+
+PROMPT: def add(a, b):
+
+COMPLETION: (b, b):
+(a):
+(b, b:
+(c, b, b:
+(d, b:
+(a, b)
+(b, b:
+(c, b, b:
+(c, b, b:
+(a, b:
+(a, b:
+(b, b:
+(a, b:
+(c)
+(b, b:
+(d, b:
+(c, b:
+(a, b:
+(a, b:
+(c) b:
+(a, b:
+(a, b:
+(c, b:
+(a, b:
+(a, b:
+(c, b:
+(a, b:
+(a, b:
+(a, b:
+(a, b)
+(a, b:
+(b,
+

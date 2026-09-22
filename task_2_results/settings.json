@@ -1,0 +1,33 @@
+{
+  "model_config": {
+    "sequence_len": 2048,
+    "vocab_size": 32768,
+    "n_layer": 4,
+    "n_head": 2,
+    "n_kv_head": 2,
+    "n_embd": 256,
+    "window_pattern": "L"
+  },
+  "parameter_counts": {
+    "wte": 8388608,
+    "value_embeds": 16777216,
+    "lm_head": 8388608,
+    "transformer_matrices": 3145776,
+    "scalars": 34,
+    "total": 36700242
+  },
+  "scaling_parameters": 11534384,
+  "default_target_tokens": 138412608,
+  "steps": 528,
+  "training_tokens": 138412032,
+  "chinchilla_20N_tokens": 734004840,
+  "total_batch_tokens": 262144,
+  "micro_batch_sequences": 8,
+  "gradient_accumulation": 16,
+  "eval_tokens_per_split": 65536,
+  "eval_every": 25,
+  "seed": 42,
+  "attention": "SDPA",
+  "dtype": "bfloat16",
+  "nanochat_commit": "b23ad2bec65ab87f6e1e10af285962435769a79b"
+}

@@ -1,0 +1,13 @@
+{
+  "step": 528,
+  "model_config": {
+    "sequence_len": 2048,
+    "vocab_size": 32768,
+    "n_layer": 4,
+    "n_head": 2,
+    "n_kv_head": 2,
+    "n_embd": 256,
+    "window_pattern": "L"
+  },
+  "val_bpb": 1.1786377542946609
+}
