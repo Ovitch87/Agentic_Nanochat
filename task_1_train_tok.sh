@@ -1,4 +1,4 @@
-export NANOCHAT_BASE_DIR="$PWD/Task_5_1_data"
+export NANOCHAT_BASE_DIR="$PWD/Task_1_data"
 
 python -m nanochat.dataset -n 8
 

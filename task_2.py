@@ -12,7 +12,7 @@ BATCH_SIZE = 8
 SEQ_LEN = 2048
 EVAL_EVERY = 25
 EVAL_TOKENS = 65_536 
-TOKENIZER_DIR = Path("Task_5_1_data/tokenizer_32768")
+TOKENIZER_DIR = Path("Task_1_data/tokenizer_32768")
 DATA_DIR = Path.home() / ".cache/nanochat/base_data_climbmix"
 OUTPUT = Path("task_2_results").resolve()
 

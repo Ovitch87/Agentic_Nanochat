@@ -1,5 +1,5 @@
 import os
-os.environ["NANOCHAT_BASE_DIR"] = os.path.abspath("Task_5_1_data")
+os.environ["NANOCHAT_BASE_DIR"] = os.path.abspath("Task_1_data")
 
 
 
@@ -169,7 +169,7 @@ if val_text:
 
 for vocab_size in [8192, 32768]:
     tokenizer = RustBPETokenizer.from_directory(
-        f"Task_5_1_data/tokenizer_{vocab_size}"
+        f"Task_1_data/tokenizer_{vocab_size}"
     )
 
     print(f"\nVocabulary size: {vocab_size}")
@@ -199,7 +199,7 @@ for vocab_size in [8192, 32768]:
 
 for vocab_size in [8192, 32768]:
     tokenizer = RustBPETokenizer.from_directory(
-        f"Task_5_1_data/tokenizer_{vocab_size}"
+        f"Task_1_data/tokenizer_{vocab_size}"
     )
 
     print(f"\nVocabulary: {vocab_size}")
