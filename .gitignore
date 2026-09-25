@@ -11,6 +11,9 @@ eval_bundle/
 # Data files
 *.parquet
 
+# Task 2 Data
+/task_2_results/task_data/
+
 # Local setup
 CLAUDE.md
 wandb/
